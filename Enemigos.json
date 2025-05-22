@@ -1,0 +1,65 @@
+[
+{
+    "nombre": "Lacayo",
+    "nombreRaid": "Leviatan",
+    "categoria": "raso",
+    "raza": "Colmena"
+},
+
+{
+    "nombre": "Acólito",
+    "nombreRaid": "Leviatan",
+    "categoria": "raso",
+    "raza": "Colmena"
+},
+{
+    "nombre": "Caballero",
+    "nombreRaid": "Leviatan",
+    "categoria": "semiboss",
+    "raza": "Colmena"
+},
+{
+    "nombre": "Maga",
+    "nombreRaid": "Leviatan",
+    "categoria": "semiboss",
+    "raza": "Colmena"
+},
+{
+    "nombre": "Ogro",
+    "nombreRaid": "Leviatan",
+    "categoria": "boss",
+    "raza": "Colmena"
+},
+{
+    "nombre": "Escoria",
+    "nombreRaid": "Ultimo Deseo",
+    "categoria": "raso",
+    "raza": "Caídos"
+},
+{
+    "nombre": "Vandalo",
+    "nombreRaid": "Ultimo Deseo",
+    "categoria": "semiboss",
+    "raza": "Caídos"
+},
+{
+    "nombre": "Goblin",
+    "nombreRaid": "Ultimo Deseo",
+    "categoria": "raso",
+    "raza": "Vex"
+},
+{
+    "nombre": "Hydra",
+    "nombreRaid": "Ultimo Deseo",
+    "categoria": "boss",
+    "raza": "Vex"
+},
+{
+    "nombre": "Capitan",
+    "nombreRaid": "Ultimo Deseo",
+    "categoria": "boss",
+    "raza": "Caídos"
+}
+
+
+]
